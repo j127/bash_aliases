@@ -7,3 +7,6 @@ alias gitc="git commit"
 
 # Django
 alias dja="django-admin.py"
+
+# Haskell colorizer
+alias hs="ghci 2>&1 | HsColour -tty"
