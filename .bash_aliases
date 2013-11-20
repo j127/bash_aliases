@@ -9,4 +9,5 @@ alias gitc="git commit"
 alias dja="django-admin.py"
 
 # Haskell colorizer
-alias hs="ghci 2>&1 | HsColour -tty"
+# I don't know exactly what this does, but it causes problems
+# alias hs="ghci 2>&1 | HsColour -tty"
